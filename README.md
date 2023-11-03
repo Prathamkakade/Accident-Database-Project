@@ -14,7 +14,7 @@ This repository consists of the following files:<br>
 <br>5. Milestone2_LevelUp.pdf: This pdf contains the whole project from scratch. It contains steps from why this dataset was chosen, all the visualizations on the data and also how the data formation was done. In addition to this all the required steps to convert the table into 3NF and BCNF has laso been shown. In assition to this, optimization steps like indexing are also shown. Finally a brief about the UI which was developed has been written in this pdf.
 <br>6. milestone1_LevelUp.pdf: This pdf contains steps the intial steps of the project. It contains steps from why this dataset was chosen, all the visualizations on the data and also how the data formation was done.
 <hr>
-
+ 
 # NOTE: 
 <br>After the checkpoint, for the purpose of optimization, the BCNF tables were split further into smaller tables for faster execution of queries.
 <br>All the 6 queries for the tables have been mentioned below.
