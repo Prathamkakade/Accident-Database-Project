@@ -1,6 +1,6 @@
 # Accident Database Projecta
 <hr>aaaaaa
-This repository consists of the following files:-<br>aa
+This repository consists of the following files:-<br>aaa
 1. DMQLUI.ipynb: This is the final jupyter notebook that contains the data preprocessing steps applied ot the original dataset along with the code for the UI that was written for the purpose of insertion, deletion and retreival of data
 <br>2. DMQLUI.py: This is the same file as that of the jupyter notebook. This python file was created for the sole purpose of executing the UI locally. The UI can be easily executed using the command prompt. 
 <br>Step1: Open Command prompt on your Windows 
