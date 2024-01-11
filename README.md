@@ -1,4 +1,4 @@
-# Accident Database Project
+# Accident Database Projecta
 <hr>
 This repository consists of the following files:-<br>
 1. DMQLUI.ipynb: This is the final jupyter notebook that contains the data preprocessing steps applied ot the original dataset along with the code for the UI that was written for the purpose of insertion, deletion and retreival of data
